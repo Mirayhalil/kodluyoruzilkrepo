@@ -1,6 +1,9 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![image](https://github.com/Mirayhalil/kodluyoruzilkrepo/assets/126342791/d37269e4-eb63-4c8d-90fa-229fb426c3fa)
+
+
 # Installation
 Öncelikle projeyi clonelayın
 
